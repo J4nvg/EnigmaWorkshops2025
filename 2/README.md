@@ -1,2 +1,4 @@
-# Workshop1
+# Workshop 2
+### Git and Github
+---
 
