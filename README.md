@@ -1,6 +1,8 @@
 
 <p align="center">
-  <img style="width:100px; height:100px"src="https://www.saenigma.com/img/cubeenig.png" />
+  <a href="https://www.saenigma.com">
+    <img style="width:100px; height:100px" src="https://www.saenigma.com/img/cubeenig.png" alt="enigma logo, Cube" />
+  </a>
 </p>
 
 # Enigma Workshops 2025
