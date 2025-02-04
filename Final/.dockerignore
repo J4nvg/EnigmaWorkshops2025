@@ -1,0 +1,15 @@
+# Exclude virtual environments
+venv/
+__pycache__/
+
+# Exclude test files and unnecessary data
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.md
+
+# Exclude system files
+.DS_Store
+*.swp
+Thumbs.db
