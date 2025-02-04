@@ -9,18 +9,13 @@ from utils import setup_api_key
 import asyncio
 
 
-# TODO:
-# incorporate llm with tavily search - done
-# create endpoint for api key - done
-# make a dockerfile for the project
-
 # load API key;
 dotenv_path = os.path.join(os.path.dirname(__file__), '.env')
 
 # use override=True if you have the API key set up in your env variables
 load_dotenv(dotenv_path=dotenv_path, override=True)
 
-# check; has to be 12345
+# check; has to be right as in .env
 print(os.environ["OPENAI_API_KEY"])
 print(os.environ["TAVILY_API_KEY"])
 
