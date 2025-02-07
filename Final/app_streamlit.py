@@ -39,7 +39,8 @@ def key_page():
     prompt_dict = {}
     prompt_dict["prompt"] = prompt
     
-    ENDPOINT = "http://127.0.0.1:8000/ask-question"
+    ENDPOINT = "http://fastapi:8000/ask-question"
+    # ENDPOINT = "http://127.0.0.1:8000/ask-question" Commented for Docker compose
         
     if st.button("Submit"):
         response = requests.post(ENDPOINT, json=prompt_dict)
