@@ -43,12 +43,12 @@ def show_secret_insights():
         {
             "title": "Overview of Learning Features",
             "content": """
-**Cheat Sheet:**
-- **Data Visualization:** Line, Bar, Area, and Scatter charts.
-- **Interactive Widgets:** Text input, number input, checkboxes, color picker, date input, file uploader.
-- **Layout & Media:** Tabs for charts, data, and media.
-- **Advanced Features:** Multi-select data analysis and statistical summaries.
-- **Secret Insights:** Unlock additional content and deeper learning tips.
+            **Tips:**
+            - **Data Visualization:** Line, Bar, Area, and Scatter charts.
+            - **Interactive Widgets:** Text input, number input, checkboxes, color picker, date input, file uploader.
+            - **Layout & Media:** Tabs for charts, data, and media.
+            - **Advanced Features:** Multi-select data analysis and statistical summaries.
+            - **Secret Insights:** Unlock additional content and deeper learning tips.
             """
         },
         {
