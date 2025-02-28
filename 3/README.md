@@ -30,7 +30,7 @@ cd EnigmaWorkshops2025/3
 ```
 
 ### Create a Virtual Environment:
-On macOS/Linux:
+### On macOS/Linux:
 ```
 python3 -m venv venv
 source venv/bin/activate
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 ### Run the App:
 ```
-streamlit run streamlit_app.py.py
+streamlit run streamlit_app.py
 ```
 
 ### How to Contribute
