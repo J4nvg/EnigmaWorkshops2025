@@ -39,7 +39,7 @@ source venv/bin/activate
 ### On Windows:
 ```
 python -m venv venv
-venv\Scripts\activate
+source venv/Scripts/activate
 ```
 
 ### Install the Dependencies:
