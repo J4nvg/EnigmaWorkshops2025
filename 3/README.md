@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 ### Run the App:
 ```
-streamlit run app.py
+streamlit run streamlit_app.py.py
 ```
 
 ### How to Contribute
