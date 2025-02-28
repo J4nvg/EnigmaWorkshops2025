@@ -25,8 +25,8 @@ To get started with the project, follow these steps:
 
 ### Clone the Repository:
 ```
-git clone https://github.com/DaniMihai95/Enigma_stremalit.git
-cd Enigma_stremalit
+git clone https://github.com/J4nvg/EnigmaWorkshops2025.git
+cd EnigmaWorkshops2025/3
 ```
 
 ### Create a Virtual Environment:
