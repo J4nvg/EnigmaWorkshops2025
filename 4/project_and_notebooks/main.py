@@ -1,12 +1,9 @@
 from fastapi import FastAPI, HTTPException
-# from langgraph.graph import END
-# from langgraph.graph import MessageGraph
 import os
 from dotenv import load_dotenv
 from models import QueryRequest, QueryResponse, APIKeyModel
 from nodes import simple_response, get_info
 from utils import setup_api_key
-import asyncio
 
 
 # load API key;
