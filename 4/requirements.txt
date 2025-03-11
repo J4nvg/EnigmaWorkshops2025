@@ -1,7 +1,9 @@
 langgraph
 langchain_core
 langchain_openai
+langchain_anthropic
 langchain_community
+langchain_google_genai
 fastapi
 uvicorn
 pydantic
